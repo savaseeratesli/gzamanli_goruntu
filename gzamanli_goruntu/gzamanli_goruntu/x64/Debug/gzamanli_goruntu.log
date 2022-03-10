@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\savaseeratesli\Desktop\gzamanli_goruntu\gzamanli_goruntu\Kaynak.cpp(34,21): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\savaseeratesli\Desktop\gzamanli_goruntu\gzamanli_goruntu\Kaynak.cpp(79,21): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  gzamanli_goruntu.vcxproj -> C:\Users\savaseeratesli\Desktop\gzamanli_goruntu\gzamanli_goruntu\x64\Debug\gzamanli_goruntu.exe
